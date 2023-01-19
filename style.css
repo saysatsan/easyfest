@@ -25,7 +25,7 @@ body{
 }
 .mob_border_left{
     display: none;
-    background: url(/img/left_border.svg) repeat;
+    background: url(./img/left_border.svg) repeat;
     min-height: 100%;
     width: 3%;
     position: fixed;
@@ -35,7 +35,7 @@ body{
 }
 .mob_border_right{
     display: none;
-    background: url(/img/right_border.svg) repeat;
+    background: url(./img/right_border.svg) repeat;
     min-height: 100%;
     width: 3%;
     position: fixed;
@@ -45,7 +45,7 @@ body{
 }
 .mob_bottom_panel{
     display: none;
-    background: url(/img/bottom_menu_mob.svg) no-repeat;
+    background: url(./img/bottom_menu_mob.svg) no-repeat;
     background-size: contain;
     background-position: 100% 100%;
     min-height: 100%;
@@ -655,7 +655,7 @@ transform: scale(1.15);
     Height:900px;
 }
 .s4_wrap{
-    background: url(/img/circle_s4.svg) no-repeat;
+    background: url(./img/circle_s4.svg) no-repeat;
     position: absolute;
     top: 0;
     left: 0;
@@ -705,7 +705,7 @@ transform: scale(1.15);
     margin-left: 175px;
 }
 .number_one{
-    background: url(/img/one_s4.svg) no-repeat;
+    background: url(./img/one_s4.svg) no-repeat;
     position: absolute;
     top: 242px;
     right: 466px;
@@ -714,7 +714,7 @@ transform: scale(1.15);
   
 }
 .number_two{
-    background: url(/img/two_s4.svg) no-repeat;
+    background: url(./img/two_s4.svg) no-repeat;
     position: absolute;
     top: 373px;
     right: 325px;
@@ -722,7 +722,7 @@ transform: scale(1.15);
     width: 166px;
 }
 .number_three{
-    background: url(/img/three_s4.svg) no-repeat;
+    background: url(./img/three_s4.svg) no-repeat;
     position: absolute;
     top: 507px;
     right: 460px;
@@ -1283,7 +1283,7 @@ transform: scale(1.15);
     
 }
 .ellipse{
-    background: url(/img/Ellipse.svg) top center no-repeat;
+    background: url(./img/Ellipse.svg) top center no-repeat;
     background-size: 100%;
     height: 200px;
     width: 100%;
